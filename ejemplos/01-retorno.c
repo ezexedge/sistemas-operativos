@@ -11,8 +11,8 @@
 
 void f(){
 	printf("mensaje desde la funcion\n");
-	return;
-	//exit(0);
+	//return;
+	exit(0);
 }
 
 int main (int argc, char *argv[]) {
